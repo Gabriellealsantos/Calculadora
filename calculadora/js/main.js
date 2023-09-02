@@ -1,6 +1,3 @@
-const elementosFormControl = document.querySelectorAll(
-  ".calc-card .form-control"
-);
 
 // Selecionar os inputs de número
 const input1 = document.getElementById("number1");
